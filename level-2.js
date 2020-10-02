@@ -59,3 +59,5 @@ outerFunction(newFunction);
 
 // does it matter where I write the code for var = innerFunction = newFunction; ??????
 // they all seem to end with the same result
+
+// updated!
